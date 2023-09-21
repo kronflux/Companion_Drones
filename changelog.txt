@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.29
+Date: 2023-09-20
+  Changes:
+    - Added Krastorio2 Processed Fuel compatibility
+    - Added startup settings and updated companion logic
+    - Added fallback for players on moving surfaces (Space Exploration compatibility)
+---------------------------------------------------------------------------------------------------
 Version: 1.0.25
 Date: 2023-02-21
   Changes:
